@@ -1,0 +1,13 @@
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\bin\Release\netcoreapp3.1\Contracts.deps.json
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.csproj.AssemblyReference.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.csproj.CopyComplete
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.dll
+C:\Users\Yazan\source\repos\TrainingSystem\Contracts\obj\Release\netcoreapp3.1\Contracts.pdb

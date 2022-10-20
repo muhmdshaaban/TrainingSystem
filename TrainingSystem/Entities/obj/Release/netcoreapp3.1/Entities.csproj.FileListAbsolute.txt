@@ -1,0 +1,10 @@
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\bin\Release\netcoreapp3.1\Entities.deps.json
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.dll
+C:\Users\Yazan\source\repos\TrainingSystem\Entities\obj\Release\netcoreapp3.1\Entities.pdb

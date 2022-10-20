@@ -1,0 +1,15 @@
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\LoggerService.deps.json
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\LoggerService.dll
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\LoggerService.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\Contracts.dll
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\Contracts.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.dll
+C:\Users\Yazan\source\repos\TrainingSystem\LoggerService\obj\Release\netcoreapp3.1\LoggerService.pdb
